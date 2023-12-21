@@ -7,7 +7,7 @@
 
 # 💫 Sobre mi:
 
-🔭 I’m currently working on Lefebvre<br>👯 I’m looking to collaborate on any Project<br>🤝 I’m looking for help with JAVA, Frontend or anything<br>🌱 I’m currently learning Python<br>💬 Ask me about<br>⚡ I Love my Baby and technologies.
+🔭 Actualmente estoy trabajando en Lefebvre<br>👯 Busco poder colaborar en algún Proyecto<br>🤝 I’m looking for help with JAVA, Frontend or anything<br>🌱 Actualmente estoy estudiando Java<br>💬 Preguntame cualquier cosa<br>⚡ Amo a mi bebe y las tecnologias.
 
 
 ## 🌐 Redes Sociales:
@@ -17,12 +17,12 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white)
 
 
-# 📊 GitHub Stats:
+# 📊 Estatus GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=DPM81Dev&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DPM81Dev&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DPM81Dev&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 Trofeos GitHub
 ![](https://github-profile-trophy.vercel.app/?username=DPM81Dev&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
 
