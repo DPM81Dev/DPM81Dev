@@ -7,7 +7,7 @@
 
 ## 💫 Sobre mi:
 
-🔭 Actualmente estoy trabajando en Lefebvre<br>👯 Busco poder colaborar en algún Proyecto<br>🤝 I’m looking for help with JAVA, Frontend or anything<br>🌱 Actualmente estoy estudiando Java<br>💬 Preguntame cualquier cosa<br>⚡ Amo a mi bebe y las tecnologias.
+🔭 Actualmente estoy trabajando en Lefebvre<br>👯 Busco poder colaborar en algún Proyecto<br>🤝 Puedo ofrecerme como desarrollador web<br>🌱 Actualmente estoy estudiando Java<br>💬 Preguntame cualquier cosa<br>⚡ Amo a mi bebe y las tecnologias.
 
 
 ## 🌐 Redes Sociales:
