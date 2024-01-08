@@ -1,23 +1,19 @@
 
-
 <div align="center">
 <img src="https://raw.githubusercontent.com/DPM81Dev/DPM81Dev/main/dpmbanner.png" />
 </div>
-
 
 ## 💫 Sobre mi:
 
 🔭 Actualmente estoy trabajando en Lefebvre<br>👯 Busco poder colaborar en algún Proyecto<br>🤝 Puedo ofrecerme como desarrollador web<br>🌱 Actualmente estoy estudiando Java<br>💬 Preguntame cualquier cosa<br>⚡ Amo a mi bebe y las tecnologias.
 
-
 ## 🌐 Redes Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/davidpm81/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DPM81Dev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@code-lofi ) 
 
-## 🛠 Lenguajes y Herramientas</h3>
+## 🛠 Lenguajes y Herramientas:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white)
 
-
-## <h3 align="left">🔥   Mis estadisticas :</h3>
+## 🔥 Mis estadisticas :
 ![](https://github-readme-stats.vercel.app/api?username=DPM81Dev&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DPM81Dev&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DPM81Dev&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
