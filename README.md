@@ -17,7 +17,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white)
 
 
-## 📊 Estatus GitHub:
+## <h3 align="left">🔥   Mis estadisticas :</h3>
 ![](https://github-readme-stats.vercel.app/api?username=DPM81Dev&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DPM81Dev&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DPM81Dev&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -29,15 +29,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=DPM81Dev&icon=6&color=0)](https://visitcount.itsvg.in)
 
-
-<h3 align="left">🔥   Mis estadisticas :</h3>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/DPM81Dev">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
