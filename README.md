@@ -5,9 +5,8 @@ Buenas, dejenme que me presente mi nombre es
 </div>
 
 ## 💫 Sobre mi:
-">
 🔭 Actualmente estoy trabajando en Lefebvre<br>👯 Busco poder colaborar en algún Proyecto<br>🤝 Puedo ofrecerme como desarrollador web<br>🌱 Actualmente estoy estudiando Java<br>💬 Preguntame cualquier cosa<br>⚡ Amo a mi bebe y las tecnologias.
-"
+
 ## 🌐 Redes Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/davidpm81/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DPM81Dev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@code-lofi ) 
 
