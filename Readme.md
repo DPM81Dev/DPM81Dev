@@ -12,16 +12,23 @@ Buenas, dejenme que me presente, mi nombre es
 
 ## 🛠 Lenguajes y Herramientas:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="Ícono de C" width="64" height="64"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Ícono de Java" width="64" height="64"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"  alt="Ícono de CSS3" width="64" height="64"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="Ícono de HTML5" width="64" height="64"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" alt="Ícono de Git" width="64" height="64"/>
+Leguajes
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Ícono de Java" width="64" height="64"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="Ícono de C" width="64" height="64"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"  alt="Ícono de CSS3" width="64" height="64"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="Ícono de HTML5" width="64" height="64"/> 
+
+Control de Versiones
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" alt="Ícono de Git" width="64" height="64"/> 
+
+Bases de Datos
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="Ícono de MySQL" width="64" height="64" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Ícono de Orcale" width="64" height="64" />
+          
+IDE`s
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt="Ícono de Eclipse" width="64" height="64"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Ícono de vscode" width="64" height="64"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" alt="Icono de Vim" width="64" height="64"/>
+          
+          
 
 ## 🖥️ Sistemas Operativos:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" alt="Ícono de windows" width="64" height="64" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Ícono de inux" width="64" height="64" />
-
-          
-![Linux](https://img.shields.io/badge/Linux-%23777BB4.svg?style=plastic&logo=Linux&logoColor=white)
-![Mac](https://img.shields.io/badge/MacOS-%23777BB4.svg?style=plastic&logo=Apple&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" alt="Ícono de windows" width="64" height="64" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Ícono de inux" width="64" height="64" />
 
 ## 🔥 Mis estadisticas :
 ![](https://github-readme-stats.vercel.app/api?username=DPM81Dev&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
