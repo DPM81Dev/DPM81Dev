@@ -13,7 +13,13 @@ Buenas, dejenme que me presente, mi nombre es
 ## 🛠 Lenguajes y Herramientas:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/c-%23777BB4.svg?style=plastic&logo=c&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white)
-          
+
+## 🛠 Sistemas Operativos:
+
+![Windows](https://img.shields.io/badge/Windows-%23777BB4.svg?style=plastic&logo=Windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23777BB4.svg?style=plastic&logo=Linux&logoColor=white)
+![Mac](https://img.shields.io/badge/Mac-%23777BB4.svg?style=plastic&logo=MacOS&logoColor=white)
+
 ## 🔥 Mis estadisticas :
 ![](https://github-readme-stats.vercel.app/api?username=DPM81Dev&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DPM81Dev&theme=react&hide_border=false)<br/>
