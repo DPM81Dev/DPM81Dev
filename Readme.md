@@ -16,9 +16,9 @@ Buenas, dejenme que me presente, mi nombre es
 
 ## 🛠 Sistemas Operativos:
 
-![Windows](https://img.shields.io/badge/Windows-%23777BB4.svg?style=plastic&logo=Windows11&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows11-%23777BB4.svg?style=plastic&logo=Microsoft&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23777BB4.svg?style=plastic&logo=Linux&logoColor=white)
-![Mac](https://img.shields.io/badge/MacOS-%23777BB4.svg?style=plastic&logo=Mac&logoColor=white)
+![Mac](https://img.shields.io/badge/MacOS-%23777BB4.svg?style=plastic&logo=Apple&logoColor=white)
 
 ## 🔥 Mis estadisticas :
 ![](https://github-readme-stats.vercel.app/api?username=DPM81Dev&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
