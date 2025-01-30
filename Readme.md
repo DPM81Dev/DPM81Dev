@@ -16,7 +16,9 @@ Buenas, dejenme que me presente, mi nombre es
 
 ## 🖥️ Sistemas Operativos:
 
-![Windows]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" alt="Ícono de windows" width="64" height="64" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" alt="Ícono de windows" width="64" height="64" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Ícono de inux" width="64" height="64" />
+
           
 ![Linux](https://img.shields.io/badge/Linux-%23777BB4.svg?style=plastic&logo=Linux&logoColor=white)
 ![Mac](https://img.shields.io/badge/MacOS-%23777BB4.svg?style=plastic&logo=Apple&logoColor=white)
