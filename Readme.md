@@ -12,12 +12,15 @@ Buenas, dejenme que me presente, mi nombre es
 
 ## 🛠 Lenguajes y Herramientas:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-     alt="Ícono de C" 
-     width="32" 
-     height="32">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="Ícono de C" width="32" height="32"/>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/c-%23777BB4.svg?style=plastic&logo=c&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Ícono de Java" width="32" height="32"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"  alt="Ícono de CSS3" width="32" height="32"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="Ícono de HTML5" width="32" height="32"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" alt="Ícono de Git" width="32" height="32"/>
 
 ## 🖥️ Sistemas Operativos:
 
