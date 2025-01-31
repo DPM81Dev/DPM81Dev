@@ -5,15 +5,20 @@ Buenas, dejenme que me presente, mi nombre es
 </div>
 
 ## 👩🏻‍🦲 Información sobre mi:
-💼 Actualmente estoy trabajando en Lefebvre<br> 🔍 Busco poder colaborar en algún Proyecto<br>🎓 Estudiante en 42Madrid de la Fundación Telefonica<br>🤝 Desarrollando mi carrera profesional como programador<br>💬 Preguntame cualquier cosa<br>⚡ Amo a mi bebe y las tecnologias.
+💼 Actualmente estoy trabajando<br> 🔍 Busco poder colaborar en algún Proyecto<br>🎓 Estudiante en 42Madrid de la Fundación Telefonica<br>🤝 Desarrollando mi carrera profesional como programador<br>💬 Preguntame cualquier cosa<br>⚡ Amo a mi bebe y las tecnologias.
 
 ## 🌐 Redes Sociales:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dpm81dev/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DPM81Dev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@code-lofi ) 
+<a href="https://www.linkedin.com/in/dpm81dev/" img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/linkedin.png" width="48" height="48" a> [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DPM81Dev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@code-lofi ) 
 
 ## 🛠 Lenguajes y Herramientas:
 
 Leguajes
-<img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/icons8-java.svg">
+<img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/icons8-java.svg" width="48" height="48">
+<img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/icons8-c-programming.svg" width="48" height="48">
+<img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/icons8-html-5.svg" width="48" height="48">
+<img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/icons8-css3.svg" width="48" height="48">
+<img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/icons8-github.svg" width="48" height="48">
+<img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/icons8-c-programming.svg" width="48" height="48">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Ícono de Java" width="64" height="64"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="Ícono de C" width="64" height="64"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"  alt="Ícono de CSS3" width="64" height="64"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="Ícono de HTML5" width="64" height="64"/> 
 
 Control de Versiones
@@ -23,7 +28,7 @@ Bases de Datos
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="Ícono de MySQL" width="64" height="64" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Ícono de Orcale" width="64" height="64" />
           
 IDE`s
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt="Ícono de Eclipse" width="64" height="64"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Ícono de vscode" width="64" height="64"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" alt="Icono de Vim" width="64" height="64"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt="Ícono de Eclipse" width="48" height="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Ícono de vscode" width="48" height="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" alt="Icono de Vim" width="48" height="48"/>
           
           
 
