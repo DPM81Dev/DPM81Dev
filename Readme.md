@@ -8,7 +8,10 @@ Buenas, dejenme que me presente, mi nombre es
 💼 Actualmente estoy trabajando<br> 🔍 Busco poder colaborar en algún Proyecto<br>🎓 Estudiante en 42Madrid de la Fundación Telefonica<br>🤝 Desarrollando mi carrera profesional como programador<br>💬 Preguntame cualquier cosa<br>⚡ Amo a mi bebe y las tecnologias.
 
 ## 🌐 Redes Sociales:
-<a href="https://www.linkedin.com/in/dpm81dev/" img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/linkedin.png" width="48" height="48" a> [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DPM81Dev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@code-lofi ) 
+
+<a href="https://www.linkedin.com/in/dpm81dev/"><img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/linkedin.png" width="48" height="48"></a>
+<a href="https://www.youtube.com/@code-lofi"><img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/youtube.png" width="48" height="48"></a>
+<a href="https://twitter.com/DPM81Dev"><img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/gorjeo.png" width="48" height="48"></a>
 
 ## 🛠 Lenguajes y Herramientas:
 
