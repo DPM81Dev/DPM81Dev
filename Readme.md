@@ -15,20 +15,19 @@ Buenas, dejenme que me presente, mi nombre es
 
 ## 🛠 Lenguajes y Herramientas:
 
-Leguajes
+Lenguajes
 <img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/icons8-java.svg" width="48" height="48">
 <img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/icons8-c-programming.svg" width="48" height="48">
 <img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/icons8-html-5.svg" width="48" height="48">
 <img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/icons8-css3.svg" width="48" height="48">
-<img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/icons8-github.svg" width="48" height="48">
-<img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/icons8-c-programming.svg" width="48" height="48">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Ícono de Java" width="64" height="64"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="Ícono de C" width="64" height="64"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"  alt="Ícono de CSS3" width="64" height="64"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="Ícono de HTML5" width="64" height="64"/> 
 
 Control de Versiones
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" alt="Ícono de Git" width="64" height="64"/> 
+<img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/git.png" width="48" height="48">
+<img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/icons8-github.svg" width="48" height="48">
 
 Bases de Datos
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="Ícono de MySQL" width="64" height="64" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Ícono de Orcale" width="64" height="64" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="Ícono de MySQL" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Ícono de Orcale" width="48" height="48"/>
           
 IDE`s
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt="Ícono de Eclipse" width="48" height="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Ícono de vscode" width="48" height="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" alt="Icono de Vim" width="48" height="48"/>
