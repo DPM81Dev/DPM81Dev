@@ -25,8 +25,7 @@ Buenas, dejenme que me presente, mi nombre es
 
 ## 🖥️ Sistemas Operativos:
 
-<img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/windows_888932.png" alt="Windows" width="48" height="48"/>
-<img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/ubuntu_888929.png" alt="Linux" width="48" height="48"/>
+<img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/windows_888932.png" alt="Windows" width="48" height="48"/><img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/ubuntu_888929.png" alt="Linux" width="48" height="48"/>
 
 ## 🔥 Mis estadisticas :
 ![](https://github-readme-stats.vercel.app/api?username=DPM81Dev&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
