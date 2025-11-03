@@ -14,12 +14,16 @@ Buenas, dejenme que me presente, mi nombre es
 
 ## 🛠 Lenguajes y Herramientas:
 
-<img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/icons8-java.svg" width="48" height="48"><img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/icons8-c-programming.svg" width="48" height="48"><img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/icons8-html-5.svg" width="48" height="48"><img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/icons8-css3.svg" width="48" height="48">
+Lenguajes de programación:
+<img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/icons8-java.svg" width="48" height="48"><img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/icons8-html-5.svg" width="48" height="48"><img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/icons8-css3.svg" width="48" height="48">
 
+Aplicaciones:
 <img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/git.png" width="48" height="48"><img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/icons8-github.svg" width="48" height="48"><img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/letra-n.png" width="48" height="48">
 
+Bases de Datos:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="Ícono de MySQL" width="48" height="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Ícono de Orcale" width="48" height="48"/>
-          
+
+IDE:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt="Ícono de Eclipse" width="32" height="32"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Ícono de vscode" width="32" height="32"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" alt="Icono de Vim" width="32" height="32"/>
 
 ## 🖥️ Sistemas Operativos:
