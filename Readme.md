@@ -9,7 +9,7 @@ Buenas, dejenme que me presente, mi nombre es
 
 ## Puedes serguirme y contactarme aqui
 <a href="https://www.linkedin.com/in/dpm81dev/"><img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/linkedin.png" width="48" height="48"></a> 
-<mailto:jose.david.pantoja.malfeito@gmail.com><img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/email.png" width="48" height="48"></a> 
+<a href="mailto:jose.david.pantoja.malfeito@gmail.com"><img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/email.png" width="48" height="48"></a> 
 
 
 ## 🛠 Lenguajes y Herramientas:
