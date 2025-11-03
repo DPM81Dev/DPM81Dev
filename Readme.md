@@ -10,8 +10,6 @@ Buenas, dejenme que me presente, mi nombre es
 ## 🌐 Redes Sociales:
 
 <a href="https://www.linkedin.com/in/dpm81dev/"><img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/linkedin.png" width="48" height="48"></a>
-<a href="https://www.youtube.com/@code-lofi"><img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/youtube.png" width="48" height="48"></a>
-<a href="https://twitter.com/DPM81Dev"><img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/gorjeo.png" width="48" height="48"></a>
 
 ## 🛠 Lenguajes y Herramientas:
 
