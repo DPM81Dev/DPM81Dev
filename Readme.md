@@ -7,9 +7,8 @@ Buenas, dejenme que me presente, mi nombre es
 ## 👩🏻‍🦲 Información sobre mi:
 💼 Actualmente estoy trabajando<br> 🔍 Busco poder colaborar en algún Proyecto<br>🎓 Estudiante en 42Madrid de la Fundación Telefonica<br>🤝 Desarrollando mi carrera profesional como programador<br>💬 Preguntame cualquier cosa<br>⚡ Amo a mi bebe y las tecnologias.
 
-## 🌐 Redes Sociales:
-
-<a href="https://www.linkedin.com/in/dpm81dev/"><img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/linkedin.png" width="48" height="48"></a>
+## Puedes serguirme aqui
+<a href="https://www.linkedin.com/in/dpm81dev/"><img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/linkedin.png" width="48" height="48"></a> 
 
 ## 🛠 Lenguajes y Herramientas:
 
