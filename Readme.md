@@ -1,37 +1,34 @@
-Buenas, dejenme que me presente
+<p align="center">
+  <img src="dpmbanner.png" alt="Banner de David Pantoja Malfeito - Desarrollador Java" width="100%">
+</p>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/DPM81Dev/DPM81Dev/main/dpmbanner.png" />
-</div>
+**Desarrollador Backend Java | Especialista en Sistemas y Soporte Tecnológico**
 
-## 👩🏻‍🦲 Información sobre mi:
-💼 Actualmente estoy trabajando<br>
-🔍 Busco poder colaborar en ¡Proyectos<br>
-🤝 Desarrollando mi carrera profesional como programador<br>
+Soy un profesional en plena fase de reinvención, orientando mi sólida trayectoria técnica hacia el desarrollo de software. Mi enfoque actual combina la potencia de **Java** con tecnologías modernas de desarrollo web y gestión de bases de datos.
 
-  ## 💬 Preguntame cualquier cosa
-  <a href="https://www.linkedin.com/in/dpm81dev/"><img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/linkedin.png" width="48" height="48"></a> 
-  <a href="mailto:david.pantoja.malfeito@hotmail.com"><img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/email.png" width="48" height="48"></a> 
+## 🚀 Sobre mí
+* **Mi Perfil:** Cuento con una trayectoria robusta en el sector IT, habiendo trabajado en empresas de primer nivel como Lefebvre, Equifax y Hewlett-Packard. Esta experiencia me ha aportado una visión 360º de la tecnología, desde el soporte y los sistemas hasta la arquitectura de software.
+* **Mi Objetivo:** Aplicar mi capacidad de resolución de problemas y mi formación técnica para construir aplicaciones eficientes, escalables y bien estructuradas.
+* **Habilidades Blandas:** Me defino por mi resiliencia, pensamiento crítico y una capacidad innata de autoaprendizaje.
 
+## 💻 Stack Tecnológico
+* **Lenguajes:** Java (OOP)
+* **Frameworks:** Spring, Spring Boot, Spring MVC, Hibernate, Maven.
+* **Frontend:** HTML5, CSS3, Bootstrap.
+* **Bases de Datos:** MySQL, Oracle, SQL.
+* **Entornos:** Linux, Windows, Git/GitHub.
 
-## 🛠 Lenguajes y Herramientas:
+## 🎓 Formación Destacada
+* **Certificado de Profesionalidad Nivel 3:** Programación Orientada a Objetos en JAVA y Bases de Datos Relacionales (710 horas totales).
+* **Certificaciones Google:** Introducción al Desarrollo Web (I y II) y Desarrollo de Aplicaciones Móviles.
+* **Microsoft Certified Systems Engineer (MCSE).**
 
-Lenguajes de programación:
-<img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/icons8-java.svg" width="48" height="48"><img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/icons8-html-5.svg" width="48" height="48"><img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/icons8-css3.svg" width="48" height="48">
+## 📊 Mis Proyectos y Aprendizaje
+Actualmente estoy trabajando en profundizar mis conocimientos en microservicios y perfeccionar mi manejo de frameworks de frontend para complementar mi perfil backend.
 
+## 📫 ¿Cómo contactarme?
+* **Email:** [david.pantoja.malfeito@hotmail.com](mailto:david.pantoja.malfeito@hotmail.com)
+* **Ubicación:** Móstoles, Madrid.
 
-Aplicaciones:
-<img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/git.png" width="48" height="48"><img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/icons8-github.svg" width="48" height="48"><img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/letra-n.png" width="48" height="48">
-
-Bases de Datos:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="Ícono de MySQL" width="48" height="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Ícono de Orcale" width="48" height="48"/>
-
-IDE:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt="Ícono de Eclipse" width="32" height="32"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Ícono de vscode" width="32" height="32"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" alt="Icono de Vim" width="32" height="32"/>
-
-## 🖥️ Sistemas Operativos:
-
-<img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/windows_888932.png" alt="Windows" width="32" height="32"/> <img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/ubuntu_888929.png" alt="Linux" width="32" height="32"/>
-
-[![](https://visitcount.itsvg.in/api?id=DPM81Dev&icon=6&color=0)](https://visitcount.itsvg.in)
-
+---
+*“Comprometido con el aprendizaje continuo y la excelencia técnica.”*
