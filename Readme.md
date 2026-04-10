@@ -15,7 +15,8 @@ Buenas, dejenme que me presente, mi nombre es
 ## 🛠 Lenguajes y Herramientas:
 
 Lenguajes de programación:
-<img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/icons8-java.svg" width="48" height="48"><img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/icons8-html-5.svg" width="48" height="48"><img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/icons8-css3.svg" width="48" height="48">
+<img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/icons8-java.svg" width="48" height="48"><img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/icons8-html-5.svg" width="48" height="48"><img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/icons8-css3.svg" width="48" height="48"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react.svg" alt="Ícono de MySQL" width="48" height="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react.svg" alt="Ícono de Orcale" width="48" height="48"/>
+
 
 Aplicaciones:
 <img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/git.png" width="48" height="48"><img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/icons8-github.svg" width="48" height="48"><img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/letra-n.png" width="48" height="48">
