@@ -12,11 +12,12 @@ Soy un profesional en plena fase de reinvención, orientando mi sólida trayecto
 * **Habilidades Blandas:** Me defino por mi resiliencia, pensamiento crítico y una capacidad innata de autoaprendizaje.
 
 ## 💻 Stack Tecnológico
-* **Lenguajes:** Java (OOP)
+* **Lenguajes:** Java (POO)
 * **Frameworks:** Spring, Spring Boot, Spring MVC, Hibernate, Maven.
 * **Frontend:** HTML5, CSS3, Bootstrap.
 * **Bases de Datos:** MySQL, Oracle, SQL.
-* **Entornos:** Linux, Windows, Git/GitHub.
+* **Control de Versiones:** Git/GitHub.
+* **Sistemas Operativos:** Linux, Windows.
 
 ## 🎓 Formación Destacada
 * **Certificado de Profesionalidad Nivel 3:** Programación Orientada a Objetos en JAVA y Bases de Datos Relacionales (710 horas totales).
@@ -28,7 +29,7 @@ Actualmente estoy trabajando en profundizar mis conocimientos en microservicios 
 
 ## 📫 ¿Cómo contactarme?
 * **Email:** [david.pantoja.malfeito@hotmail.com](mailto:david.pantoja.malfeito@hotmail.com)
-* **Ubicación:** Móstoles, Madrid.
+* **Ubicación:** Madrid , España.
 
 ---
 *“Comprometido con el aprendizaje continuo y la excelencia técnica.”*
