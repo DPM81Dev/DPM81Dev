@@ -30,15 +30,5 @@ IDE:
 
 <img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/windows_888932.png" alt="Windows" width="32" height="32"/> <img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/ubuntu_888929.png" alt="Linux" width="32" height="32"/>
 
-## 🔥 Mis estadisticas :
-![](https://github-readme-stats.vercel.app/api?username=DPM81Dev&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DPM81Dev&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DPM81Dev&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 Trofeos GitHub
-![](https://github-profile-trophy.vercel.app/?username=DPM81Dev&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
-
-
----
 [![](https://visitcount.itsvg.in/api?id=DPM81Dev&icon=6&color=0)](https://visitcount.itsvg.in)
 
