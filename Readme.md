@@ -8,8 +8,8 @@ Buenas, dejenme que me presente
 💼 Actualmente estoy trabajando<br>
 🔍 Busco poder colaborar en ¡Proyectos<br>
 🤝 Desarrollando mi carrera profesional como programador<br>
-💬 Preguntame cualquier cosa<br>
-  ## Puedes serguirme y contactarme aqui
+
+  ## 💬 Preguntame cualquier cosa
   <a href="https://www.linkedin.com/in/dpm81dev/"><img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/linkedin.png" width="48" height="48"></a> 
   <a href="mailto:david.pantoja.malfeito@hotmail.com"><img src="https://github.com/DPM81Dev/DPM81Dev/blob/main/email.png" width="48" height="48"></a> 
 
